@@ -1,7 +1,7 @@
 Hi. I recommend while testing this program you have the Serial Monitor open. I used Visual Studio Code with the PlatformIO extension.
 This gives you useful information (that should be implemented within the matrix) that is necessary to operate the program.
 
-To operate the program:
+##To operate the program:
 
 1. If your Wifi network isn't saved in WifiManager then it will create a new access point for you to connect to called "ESP32 Smart Clock".
 
@@ -31,7 +31,9 @@ To operate the program:
 	8.4 UP		= Temperature in Location
 	8.5 DOWN	= 5 Most Popular Crypto, Their Values and Their % Change in the Last 24Hrs. 
 
-DIRECTORY STRUCTURE
+
+##DIRECTORY STRUCTURE
+
 Main file is located in /src
 Libraries are located in /.pio/libdeps/esp32dev
 Web Server files are located in /data
