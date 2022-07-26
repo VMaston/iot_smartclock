@@ -1,5 +1,7 @@
 This is an upload of a project I made while studying at University.
 
+It's primary purpose is to act as a hub for a visual display (a connected LED Matrix) which will gather information from the connected social media APIs.
+
 I recommend while testing this program you have the Serial Monitor open. I used Visual Studio Code with the PlatformIO extension.
 This gives you useful information (that should be implemented within the matrix) that is necessary to operate the program.
 

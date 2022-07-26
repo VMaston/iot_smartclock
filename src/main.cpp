@@ -213,7 +213,7 @@ void twitter()
   {
     updateCounter = millis();
     //Twitter API Key - TODO: Make the API keys customizable via WebSever
-    String bearerToken = "AAAAAAAAAAAAAAAAAAAAAG%2FROgEAAAAAyS15ewbTwLF%2BYMaAyEb0oS%2FNheU%3DkTHCQjAYzafKVaDcxuEZWdkdB6ze71sOWr8VRn7ZLZp92ZSs6A";
+    String bearerToken = "################################################################";
 
     //Mandatory Certificate for HTTPS Twitter Connection for API Usage
 
@@ -333,7 +333,7 @@ void youtube()
   {
     updateCounter = millis();
     //YouTube API Key - TODO: Make the API keys customizable via WebSever
-    String youtubeKey = "AIzaSyAZfrkUznUx7O6bciLjWTHP000iDzjQSTM";
+    String youtubeKey = "################################################################";
     
     //Mandatory Certificate for HTTPS YouTube Connection for API Usage
 
@@ -453,7 +453,7 @@ void weather()
   {
     updateCounter = millis();
     //Weather API Key - TODO: Make the API keys customizable via WebSever
-    String weatherKey = "4b656d804eb01aa84b5ab6a99796b365";
+    String weatherKey = "################################################################";
     
     //Mandatory Certificate for HTTPS OpenWeatherMap Connection for API Usage
 
@@ -596,7 +596,7 @@ void crypto()
   {
     updateCounter = millis();
     //CoinMarketCap API Key - TODO: Make the API keys customizable via WebSever
-    String cryptoKey = "8f2fd7b3-eda6-422d-89fd-74e500f47aec";
+    String cryptoKey = "################################################################";
 
     //Mandatory Certificate for HTTPS CoinMarketCap Connection for API Usage
 
